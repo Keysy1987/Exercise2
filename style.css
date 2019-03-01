@@ -10,6 +10,7 @@ body {
   margin-top: 40px;
   color: black;
   background-color: #008080;
+  display: flex;
 }
 
 /* CONTAINER */

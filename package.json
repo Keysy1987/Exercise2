@@ -1,0 +1,24 @@
+{
+  "name": "Exercise2",
+  "version": "1.0.0",
+  "description": "1. Before merge: https://keysy1987.github.io/Exercise2/ , ale czy to będzie widoczne o merge ;) ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keysy1987/Exercise2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keysy1987/Exercise2/issues"
+  },
+  "homepage": "https://github.com/Keysy1987/Exercise2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
+  }
+}
